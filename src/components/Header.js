@@ -9,7 +9,7 @@ export const Header = () => {
             
             <div className="flex flex-col">
             <p className="font-montserrat font-semibold text-xl">Current Score: 0</p>
-            <p className="font-montserrat font-semibold text-xl">Current Score: 0</p>
+            <p className="font-montserrat font-semibold text-xl">Best Score: 0</p>
             
             </div>
 
